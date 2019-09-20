@@ -4,3 +4,5 @@ hal_attribute(lineage_fod)
 
 # LiveDisplay
 hal_attribute(lineage_livedisplay)
+
+hal_attribute(omni_fod)

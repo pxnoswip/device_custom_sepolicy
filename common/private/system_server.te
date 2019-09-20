@@ -5,3 +5,5 @@ hal_client_domain(system_server, hal_lineage_fod)
 
 # Use HALs
 hal_client_domain(system_server, hal_lineage_livedisplay)
+
+hal_client_domain(system_server, hal_omni_fod)
